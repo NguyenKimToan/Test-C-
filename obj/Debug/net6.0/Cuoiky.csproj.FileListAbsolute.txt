@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\bin\Debug\net6.0\Cuoiky.exe
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\bin\Debug\net6.0\Cuoiky.deps.json
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\bin\Debug\net6.0\Cuoiky.runtimeconfig.json
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\bin\Debug\net6.0\Cuoiky.dll
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\bin\Debug\net6.0\Cuoiky.pdb
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.AssemblyInfo.cs
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.dll
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\refint\Cuoiky.dll
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.pdb
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\Cuoiky.genruntimeconfig.cache
+C:\Users\DELL\Documents\OOP (C#)\Cuoiky\obj\Debug\net6.0\ref\Cuoiky.dll
